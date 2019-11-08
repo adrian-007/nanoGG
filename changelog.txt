@@ -1,0 +1,28 @@
+** 0.074
+ * eksperymentalne wsparcie dla GG11
+
+** 0.073
+ * przy imporcie kontaktow, kontakt istniejacy zostanie zaktualizowany (wymaga restartu)
+ * zmieniona schemat bazy konfiguracji
+ * automatyczna synchronizacja z lista kontaktow na serwerze gg
+ * lekko zmieniona reakcja na bledy przy polaczeniach
+ * dodana obsluga przewijania listy przy pomocy 'palca' w urzadzeniach z ekranem dotykowym
+ * przepisana kontrolka chatu na webkit
+ * chat mozna przewijac palcem...
+ * zmienione rozmiary niektorych elementow GUI coby to latwiej pacnac palcem
+ * porzucone wsparcie dla s60 fp1 i fp2
+ * wersje dla S60v5, Symbian Anna i Nokia Belle
+
+** 0.072
+ * zmieniony layout przyciskow w karcie konwersacji
+ * zwiekszony rozmiar przyciskow przewijania kart
+ * zmieniona fcja odczytu danych z gniazda - nie powinno sie juz zawieszac
+ * poprawione rozmieszczenie avataru w karcie konwersacji
+ * opis w naglowku karty konwersacji wyrownany do prawej
+ * poprawione ustawienie focusa na aktywnej karcie konwersacji
+
+** 0.071
+ * hmm... don't remember...
+
+** 0.07
+ * let's say initial release

@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/available.png</file>
+        <file>res/avatar.png</file>
+        <file>res/away.png</file>
+        <file>res/blocked.png</file>
+        <file>res/chat.png</file>
+        <file>res/clear.png</file>
+        <file>res/collapsed.png</file>
+        <file>res/contacts.png</file>
+        <file>res/dnd.png</file>
+        <file>res/expanded.png</file>
+        <file>res/invisible.png</file>
+        <file>res/message.png</file>
+        <file>res/nanoGG.png</file>
+        <file>res/send.png</file>
+        <file>res/typing.png</file>
+        <file>res/unavailable.png</file>
+        <file>res/chat.css</file>
+        <file>res/default.css</file>
+    </qresource>
+</RCC>
